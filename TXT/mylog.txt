@@ -6,3 +6,6 @@ ZCZC W00 30 L81 Dengar music lo-fi
 ZCZC W00 120 L73 Bermain Game Apex Legend
 ZCZC W00 45 L70 Belajar Aljabar Linear
 ZCZC W00 15 L99 Masak Mie
+ZCZC W00 120 L86 Membantu ayah pasang jendela
+ZCZC W00 210 L70 Belajar PBP
+ZCZC W00 60 L73 Bermain Game Valorant
