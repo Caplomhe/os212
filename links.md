@@ -3,7 +3,7 @@ layout: "layout"
 permalink: /LINKS/
 ---
 
-# LINKS
+# LINKS WEEK01
 1. [Pengantar Linux](https://training.linuxfoundation.org/training/introduction-to-linux/)
    Ini  pengantar Linux yang dibuat oleh The Linux Foundation sendiri dan dapat diakses secara gratis juga. Dalam Website Ini mencakup dari Dasar-dasar Linux, Bash Shell, Operasi Jaringan, hingga Prinsip Keamanan Lokal. Ini akan berguna untuk referensi di masa mendatang.
 
@@ -15,3 +15,7 @@ permalink: /LINKS/
    
 4. [Git Alias](https://git-scm.com/book/en/v2/Git-Basics-Git-Aliases)  
    Git memiliki alias untuk mempersingkat perintah. Tidak semua machine memiliki alias, hal ini akan sangat membantu jika ada satu yang terpasang di dalam program itu sendiri. salah satu alias yang saya temukan seperti git undo, alias ini memungkinkan kita dapat membatalkan komit terbaru untuk berjaga-jaga jika kita tidak dapat mengubahnya.
+
+#LINKS WEEK02
+1. [Keys on GPG](https://www.dewinter.com/gnupg_howto/english/GPGMiniHowto-3.html)
+   Tutorial terkait beberapa step mengenai key pada GPG mulai dari cara membuat key, mengexport key, mengimport key dan lainnya.
