@@ -25,21 +25,21 @@ permalink: /LINKS/
 Penggunaan Bash dalam mengompilasikan beberapa perintah dan mendifinisikannya sebagai file tunggal, contohnya dengan penggunaan SHA256SUM
 
 # LINKS WEEK 03
-1. [Pengenalan Bahasa C](https://www.geeksforgeeks.org/c-language-set-1-introduction/)
+1. [Pengenalan Bahasa C](https://www.geeksforgeeks.org/c-language-set-1-introduction/)<br>
 Pengenalan bahasa pemrograman yang dipakai pada materi ketiga, apa itu bahasa C dan mengapa kita menggunakan bahasa pemrograman ini pada mata kuliah Sistem Operasi.
 
-2. [Fuse](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)
+2. [Fuse](https://www.kernel.org/doc/html/latest/filesystems/fuse.html)<br>
 Pengenalan Fuse yang membicarakan bahwa sistem file ruang pengguna merupakan sistem file yang mengandung data dan metadata disediakan oleh proses ruang pengguna biasa.
 
-3. [Pengenalan Sistem File Linux](https://opensource.com/article/19/3/virtual-filesystems-linux)
+3. [Pengenalan Sistem File Linux](https://opensource.com/article/19/3/virtual-filesystems-linux)<br>
 Kernel Linux mengharuskan entitas untuk menjadi sistem file, kernel memperlakukan sistem file generik sebagai antarmuka abstrak, dan tiga fungsi besar ini "virtual," tanpa definisi default. Oleh karena itu, implementasi sistem file default kernel disebut sistem file virtual (VFS).
 
-4. [File Storage](https://www.geeksforgeeks.org/understanding-file-system/)
+4. [File Storage](https://www.geeksforgeeks.org/understanding-file-system/)<br>
 File storage system yang sering digunakan terdapat 4 file storage system serta berbeda berdasarkan definisinya masing-masing.
 
 # LINKS WEEK 04
-1. [Addresing dan Pointers](https://beginnersbook.com/2014/01/c-pointers/)
+1. [Addresing dan Pointers](https://beginnersbook.com/2014/01/c-pointers/)<br>
 Materi mengenai addressing dan pointers pada bahasa pemrograman C.
 
-2. [Tarball](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html)
+2. [Tarball](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html)<br>
 Proses mencadangkan sekelompok file dan menggabungkannya menjadi data tunggal dengan tipe file .tar. merupakan cara kerja Tarball.
