@@ -29,6 +29,6 @@ ZCZC W04 15 L27 GnuPG, key-gen, encrypt/decrypt.
 ZCZC W04 120 L81 Listening Music
 ZCZC W04 120 L09 Assignment in General
 ZCZC W04 90 L13 Assignment #04
-ZCZC W00 120 L73 Bermain Game Apex Legend
-ZCZC W00 45 L70 Belajar Aljabar Linear
+ZCZC W04 120 L73 Bermain Game Apex Legend
+ZCZC W04 45 L70 Belajar Aljabar Linear
 ZCZC W04 60 L84 Relax
