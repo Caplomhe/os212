@@ -32,3 +32,8 @@ ZCZC W04 90 L13 Assignment #04
 ZCZC W04 120 L73 Bermain Game Apex Legend
 ZCZC W04 45 L70 Belajar Aljabar Linear
 ZCZC W04 60 L84 Relax
+ZCZC W05 120 L02 Zoom meetings related
+ZCZC W05 120 L81 Listening Music
+ZCZC W05 120 L09 Assignment in General
+ZCZC W05 90 L13 Assignment #05
+ZCZC W05 120 L73 Bermain Game Apex Legend

@@ -43,3 +43,16 @@ Materi mengenai addressing dan pointers pada bahasa pemrograman C.
 
 2. [Tarball](https://www.networkworld.com/article/3328840/working-with-tarballs-on-linux.html)<br>
 Proses mencadangkan sekelompok file dan menggabungkannya menjadi data tunggal dengan tipe file .tar. merupakan cara kerja Tarball.
+
+# LINKS WEEK 05
+1. [NUMA (Non-Uniform Memory Access)](https://whatis.techtarget.com/definition/NUMA-non-uniform-memory-access)<br>
+Di dalam sistem yang memiliki lebih dari satu processor tentu membutuhkan penengah sehingga dibuatlah NUMA. Website ini menjelaskan apa itu NUMA, cara kerjanya, bahkan aplikasinya secara singkat dan menggunakan bahasa yang mudah dimengerti.
+
+2. [Virtual Memory](https://www.youtube.com/watch?v=2quKyPnUShQ)<br>
+Sebuah video yang membahas dari definisi, fungsi, dan cara kerja dari virtual memory. Video ini saya rekomendasikan karena pembahasannya sangat jelas dan mudah dimengerti.
+
+3. [Process Table](https://exposnitc.github.io/os_design-files/process_table.html)<br>
+Website Ini memiliki penjelasan yang cukup terinci mengenai proses dan cara kerjanya.
+
+4. [Page Fault](https://techterms.com/definition/page_fault)<br>
+Apabila sebuah program pernah mengalami hang atau crash, salah satu penyebabnya adalah Page Fault. Melalui website ini, dijelaskan secara lengkap mengenai definisi, penyebab, penanganan, dan akibat Page Fault secara singkat, jelas, dan padat.
