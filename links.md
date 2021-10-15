@@ -56,3 +56,13 @@ Website Ini memiliki penjelasan yang cukup terinci mengenai proses dan cara kerj
 
 4. [Page Fault](https://techterms.com/definition/page_fault)<br>
 Apabila sebuah program pernah mengalami hang atau crash, salah satu penyebabnya adalah Page Fault. Melalui website ini, dijelaskan secara lengkap mengenai definisi, penyebab, penanganan, dan akibat Page Fault secara singkat, jelas, dan padat.
+
+# LINKS WEEK 06
+1. [Fork](https://www.geeksforgeeks.org/fork-system-call/)
+Berisi penjelasan mengenai fork dengan penjelasan yang singkat, terdapat gambar, dan terdapat contoh code yang akan memudahkan pembaca memahami secara mendalam mengenail fork.
+
+2. [Perbedaan CPU Cores dan Threads Explained](https://www.youtube.com/watch?v=hwTYDQ0zZOw)
+Dalam video ini, pengetahuan yang diberikan tidak hanya menjelaskan mengenai perbedaan antara Core dan Thread saja, tetapi diidalam video ini juga dijelaskan mengenai proses Multithreading. Saya memilih video ini karena video ini singkat, jelas dan padat sehingga mudah untuk dipahami.
+
+3. [Process Execution Priority](https://developer.ibm.com/technologies/linux/tutorials/l-lpic1-103-6/)
+Blog yang menjelaskan mengenai prioritas eksekusi proses di Linux serta cara mengatur prioritas.
