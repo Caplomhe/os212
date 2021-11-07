@@ -66,3 +66,11 @@ Dalam video ini, pengetahuan yang diberikan tidak hanya menjelaskan mengenai per
 
 3. [Process Execution Priority](https://developer.ibm.com/technologies/linux/tutorials/l-lpic1-103-6/)<br>
 Blog yang menjelaskan mengenai prioritas eksekusi proses di Linux serta cara mengatur prioritas.
+
+# LINKS WEEK 07
+1. [Proses Deadlocks dalam Sistem Operasi](https://www.tutorialspoint.com/process-deadlocks-in-operating-system)<br>
+menjelaskan jenis-jenis deadlock juga cara mencegah dan menghindari deadlock melalui media teks dan ilustrasi. Saya pribadi belum pernah bertemu dengan masalah ini sehingga sulit untuk dibayangkan, tetapi blog ini berhasil menjelaskannya dengan sangat baik.
+2. [Critical Section](https://tuxthink.blogspot.com/2013/07/introduction-to-critical-section-with.html)<br>
+menjelaskan tentang critical section yang masih agak berhubungan dengan race condition. Saya memilih website ini karena terdapat penjelasan dengan teks yang singkat dan mudah dipahami, apalagi ditambah dengan animasi sederhana.
+3. [Race Conditions](https://www.youtube.com/watch?v=MqnpIwN7dz0)<br>
+menjelaskan tentang race conditions dan cara penanganannya menggunakan Dekker's Algorithm. Menurut saya, video ini sangat bagus untuk ditonton karena masalah ini cukup sering ditemukan, salah satu yang pernah saya alami adalah saat mempelajari game development.
