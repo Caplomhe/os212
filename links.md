@@ -70,7 +70,19 @@ Blog yang menjelaskan mengenai prioritas eksekusi proses di Linux serta cara men
 # LINKS WEEK 07
 1. [Proses Deadlocks dalam Sistem Operasi](https://www.tutorialspoint.com/process-deadlocks-in-operating-system)<br>
 menjelaskan jenis-jenis deadlock juga cara mencegah dan menghindari deadlock melalui media teks dan ilustrasi. Saya pribadi belum pernah bertemu dengan masalah ini sehingga sulit untuk dibayangkan, tetapi blog ini berhasil menjelaskannya dengan sangat baik.
+
 2. [Critical Section](https://tuxthink.blogspot.com/2013/07/introduction-to-critical-section-with.html)<br>
 menjelaskan tentang critical section yang masih agak berhubungan dengan race condition. Saya memilih website ini karena terdapat penjelasan dengan teks yang singkat dan mudah dipahami, apalagi ditambah dengan animasi sederhana.
+
 3. [Race Conditions](https://www.youtube.com/watch?v=MqnpIwN7dz0)<br>
 menjelaskan tentang race conditions dan cara penanganannya menggunakan Dekker's Algorithm. Menurut saya, video ini sangat bagus untuk ditonton karena masalah ini cukup sering ditemukan, salah satu yang pernah saya alami adalah saat mempelajari game development.
+
+# LINKS WEEK 08
+1. [CPU Scheduling](https://www.studytonight.com/operating-system/cpu-scheduling)<br>
+Berisi mengenai definisi, kegunaan, jenis, dan kriteria dari CPU Scheduling. Topik tersebut dirangkum dalam penjelasan yang relatif singkat dalam website ini sehingga menarik untuk dipelajari.
+
+2. [Perbedaan antara Scheduler dan Dispatcher](https://www.differencebetween.com/difference-between-scheduler-and-vs-dispatcher/)<br>
+Scheduler dan Dispatcher terlihat mirip, tetapi keduanya memiliki definisi, cara kerja, dan kegunaan yang berbeda. Pada website ini, perbedaan keduanya dijelaskan menggunakan tabel perbandingan sehingga mudah dipahami.
+
+3. [Process Scheduling](https://www.guru99.com/process-scheduling.html)<br>
+membahas tentang perbedaan antara ketiga scheduler yaitu Long, Medium, dan Short Term Scheduler. Pada website ini, perbedaan dari ketiga prosses dijelaskan menggunakan tabel perbandingan sehingga mudah dipahami.

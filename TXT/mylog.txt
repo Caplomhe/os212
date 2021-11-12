@@ -39,14 +39,20 @@ ZCZC W05 90 L13 Assignment #05
 ZCZC W05 120 L73 Bermain Game Apex Legend
 ZCZC W06 120 L09 Assignment in General
 ZCZC W06 90 L13 Assignment #06
-ZCZC W06 60  L26 C-language
-ZCZC W06 80  L02 ZOOM meetings related
+ZCZC W06 60 L26 C-language
+ZCZC W06 80 L02 ZOOM meetings related
 ZCZC W06 120 L81 Listening Music
 ZCZC W06 60 L84 Relax
-ZCZC W07 60  L02 ZOOM meetings related
+ZCZC W07 60 L02 ZOOM meetings related
 ZCZC W07 120 L09 Assignment in General
-ZCZC W07 20  L05 Quiz related
-ZCZC W07 40  L07 Demo related
+ZCZC W07 20 L05 Quiz related
+ZCZC W07 40 L07 Demo related
 ZCZC W07 120 L73 Bermain Game Apex Legend
 ZCZC W07 60 L84 Relax
 ZCZC W07 120 L81 Listening Music
+ZCZC W08 180 L31 VirtualBox: install GNU/Linux, etc.
+ZCZC W08 120 L09 Assignment in General
+ZCZC W08 60 L23 Linux CLI including tar, etc.
+ZCZC W08 120 L02 ZOOM meetings related
+ZCZC W08 60 L32 YouTube: study, etc.
+ZCZC W08 60 L84 Relax
