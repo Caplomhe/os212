@@ -86,3 +86,19 @@ Scheduler dan Dispatcher terlihat mirip, tetapi keduanya memiliki definisi, cara
 
 3. [Process Scheduling](https://www.guru99.com/process-scheduling.html)<br>
 membahas tentang perbedaan antara ketiga scheduler yaitu Long, Medium, dan Short Term Scheduler. Pada website ini, perbedaan dari ketiga prosses dijelaskan menggunakan tabel perbandingan sehingga mudah dipahami.
+
+# LINKS WEEK 09
+1. [MBR vs GPT](https://www.freecodecamp.org/news/mbr-vs-gpt-whats-the-difference-between-an-mbr-partition-and-a-gpt-partition-solved/)<br>
+Website ini menjelaskan tentang perbedaan MBR dengan GPT. Saya memilih website ini karena menjelaskan tentang perbedaan dari background kedua jenis partisi berikut yang membuat semakin mudah dimengerti.
+
+2. [Disk Scheduling Algorithms](https://www.geeksforgeeks.org/disk-scheduling-algorithms/)<br>
+Sistem Operasi harus menjaga efisiensi dan process eksekusi.Algoritma disk scheduling bermacam-macam dan memiliki berbagai kekurangan dan kelebihan. Oleh karena itu menentukan algorima disk scheduling menjadi sangat penting. Menariknya artikel ini dijelaskan dengan sangat singkat disertai dengan ilustrasi sehingga mudah untuk dipahami.
+
+3. [Magnetic Disk Memory](https://www.geeksforgeeks.org/magnetic-disk-memory/)<br>
+Magnetic disk berguna untuk menyimpan berbagai macam data program dan files. Namun. penggunaan magnetic disk memiliki keuntungan dan kerugian.Artikel ini menarik dan berguna karena penjelasannya yang singkat dan berguna sebagai pertimbangan kapan untuk memakai magnetic dan kapan untuk memakai SSD.
+
+4. [GRUB pada Linux](https://www.tutorialspoint.com/what-is-grub-in-linux)<br>
+GRUB merupakan sebuah bootloader yang tersedia dari GNU project.Bootloader sangat penting, tanpa bootloader mustahil sistem operasi untuk dijalankan.Menariknya artikel ini dibahas dengan cukup singat namun poin pembahasannya cukup banyak.
+
+5. [RAID 0, RAID 1, RAID 10 - All You Need to Know as Fast As Possible](https://www.youtube.com/watch?v=eE7Bfw9lFfs)<br>
+Saat saya membaca sebuah spesifikasi laptop, pada bagian storage beberapa laptop menuliskan RAID 1,10, dan lain-lain pada storage mereka video ini membahas tentang kegunaan dari RAID 0, RAID 1, dan RAID 10 keuntungan dan kerugian dan bagaimana cara kerjanya.
